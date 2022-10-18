@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Vector2dTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2022-10-18T15:29:31" hostname="MacBook-Pro-Karol-2.local" time="0.018">
+  <properties/>
+  <testcase name="testFollows()" classname="Vector2dTest" time="0.011"/>
+  <testcase name="testToString()" classname="Vector2dTest" time="0.001"/>
+  <testcase name="testPrecedes()" classname="Vector2dTest" time="0.001"/>
+  <testcase name="testAddition()" classname="Vector2dTest" time="0.0"/>
+  <testcase name="testLowerLeft()" classname="Vector2dTest" time="0.0"/>
+  <testcase name="testLowerRight()" classname="Vector2dTest" time="0.0"/>
+  <testcase name="testOppositr()" classname="Vector2dTest" time="0.0"/>
+  <testcase name="testSubstraction()" classname="Vector2dTest" time="0.0"/>
+  <testcase name="testEquals()" classname="Vector2dTest" time="0.0"/>
+  <testcase name="testUpperRight()" classname="Vector2dTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
